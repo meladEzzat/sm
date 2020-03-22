@@ -7,3 +7,7 @@
 	Command pattern
 	State pattern
 	Factory pattern
+
+	
+# External dependencies
+	Junit 4.11

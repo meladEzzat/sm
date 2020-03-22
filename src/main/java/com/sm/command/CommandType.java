@@ -25,13 +25,6 @@ public enum CommandType {
     }
 
     public static CommandType valueOf(int value) {
-//    	CommandType commandType=map.get(value);
-//    	
-//    	if (commandType==null)
-//    		throw new CommandTypeNotFoundException();
-//    	
-//        return commandType;
-    	
     	return map.get(value);
     }
 
